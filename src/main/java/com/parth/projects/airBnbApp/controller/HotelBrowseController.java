@@ -1,6 +1,6 @@
 package com.parth.projects.airBnbApp.controller;
 
-import com.codingshuttle.projects.airBnbApp.dto.*;
+import com.parth.projects.airBnbApp.dto.*;
 import com.parth.projects.airBnbApp.service.HotelService;
 import com.parth.projects.airBnbApp.service.InventoryService;
 import com.parth.projects.airBnbApp.dto.HotelInfoDto;
