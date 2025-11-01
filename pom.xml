@@ -7,11 +7,11 @@
 		<relativePath/>
 		<!--  lookup parent from repository  -->
 	</parent>
-	<groupId>com.codingshuttle.projects</groupId>
+	<groupId>com.parth.projects</groupId>
 	<artifactId>airBnbApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>airBnbApp</name>
-	<description>AirBnb Clone Project in Coding Shuttle</description>
+	<description>AirBnb Clone </description>
 	<url/>
 	<licenses>
 		<license/>
